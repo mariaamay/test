@@ -1,9 +1,7 @@
 Hello world
 5
 6
-<<<<<<< HEAD
 754878
 life is beautiful
-=======
 Hello git
->>>>>>> testBr
+
